@@ -9,11 +9,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@agungprsty](https://medium.com/@agungprsty)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Laravel**
-
 - 📫 How to reach me **agungprsty423@gmail.com**
 
-- ⚡ Fun fact **I think i am crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
