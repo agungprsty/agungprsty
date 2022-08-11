@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agungprsty&label=Profile%20views&color=0e75b6&style=flat" alt="agungprsty" /> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning [Flask Framework](https://flask.palletsprojects.com/en/2.2.x/)
 
+<!---
 - 👨‍💻 All of my projects are available at [https://farghani.com/](https://farghani.com/)
+-->
 
 - 📝 I regularly write articles on [https://medium.com/@agungprsty](https://medium.com/@agungprsty)
 
