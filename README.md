@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://farghani.com/](https://farghani.com/)
 -->
 
-- 📝 I regularly write articles on [https://medium.com/@agungprsty](https://medium.com/@agungprsty)
+- 📝 I regularly write articles on [Medium](https://medium.com/@agungprsty)
 
 - 📫 How to reach me **agungprsty423@gmail.com**
 
